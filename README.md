@@ -9,3 +9,6 @@ http(s)://<server:port>/rstudio
 For example, the following Binder link will open an RStudio session in the R demo repository.
 
 http://mybinder.org/v2/gh/binder-examples/r/master?urlpath=rstudio
+
+https://mybinder.org/v2/gh/lawrencelifshitz/SeuratR/master  # optionally with ?urlpath=rstudio to get an rstudio session.
+
