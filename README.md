@@ -12,3 +12,4 @@ http://mybinder.org/v2/gh/binder-examples/r/master?urlpath=rstudio
 
 https://mybinder.org/v2/gh/lawrencelifshitz/SeuratR/master  # optionally with ?urlpath=rstudio to get an rstudio session.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lawrencelifshitz/SeuratR/master?urlpath=rstudio)
