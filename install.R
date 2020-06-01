@@ -10,5 +10,7 @@ install.packages("ggplot2")
 install.packages("cowplot")
 install.packages("dplyr")
 install.packages("tictoc")
+install.packages("rdrop2")
+install.packages("httpuv")   # already installed I think by rdrop2.  packs = installed.packages() to see them and their version info.
 # install.packages("clusterProfiler")  # for CompareClusters2.R
 # BiocManager::install("org.Hs.eg.db")  
