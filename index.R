@@ -38,3 +38,5 @@ Idents(finalS) = finalS$seurat_clusters
 DimPlot(finalS)
 igenes = head(rownames(finalS))  # AAAS is one gene
 FeaturePlot(finalS,igenes)
+
+dataS.rdrop = drop_download("test/pbmcS.rds",verbose=TRUE,overwrite=TRUE)  # from my work dropbox acct. an rdrop2 method.
